@@ -1,4 +1,4 @@
-# Hi I'm Faiz 👋👩🏾‍💻<br><br>
+# Hi I'm Faiz 👋👩🏾‍💻
 ## 💫 About Me:
 🏫 College freshman majoring in Information Technology, at the Faculty of Computer Science, Brawijaya University.<br>🌱 I’m currently learning Typescript and trying to be a full stack designer<br>💬 Ask me about anything
 
