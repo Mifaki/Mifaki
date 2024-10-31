@@ -1,12 +1,45 @@
-# Hi I'm Faiz 👋👩🏾‍💻
-## 💫 About Me:
-🏫 College freshman majoring in Information Technology, at the Faculty of Computer Science, Brawijaya University.<br>🌱 I’m currently learning Typescript and Angular<br>💬 Ask me about anything
+<div align="center">
+  
+# 👋 Hello World, I'm Faiz! 
 
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discordapp.com/users/611532053653225474) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ahmdpais_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmad-faiz-agustianto/) 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&vCenter=true&random=false&width=435&lines=Frontend+Developer;Information+Technology+Student;Always+Learning+New+Things)](https://git.io/typing-svg)
 
-# 💻 Tech Stack:
+</div>
+
+
+## 🚀 Quick Facts
+
+- 🎓 Information Technology freshman at Brawijaya University
+- 💻 Passionate about crafting beautiful web experiences
+- 🌱 Currently mastering TypeScript and diving into Angular
+  
+## 🛠️ Technology Arsenal
+
+<details>
+<summary>Frontend Development</summary>
+
+```javascript
+const frontend = {
+  languages: ['HTML', 'CSS', 'JavaScript', 'TypeScript'],
+  frameworks: ['React', 'Vue.js', 'Angular', 'Next.js', 'Quasar'],
+  styling: ['Tailwind CSS', 'SCSS', 'Styled Components'],
+  currentlyLearning: 'Advanced TypeScript Patterns'
+}
+```
+</details>
+
+<details>
+<summary>Backend Development</summary>
+
+```javascript
+const backend = {
+    "languages": ["PHP", "Python", "Java"],
+    "frameworks": ["Laravel", "Express.js"],
+    "databases": ["MySQL", "PostgreSQL", "MongoDB"]
+}
+```
+</details>
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="CSS" width="45" height="45"/>
@@ -23,8 +56,29 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/quasar/quasar-original.svg" alt="Quasar" width="45" height="45"/>
 </p>
 
-<br /><br />
+## 📊 GitHub Analytics
 
-![Top Langs](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mifaki&theme=radical) 
-<br />
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mifaki&layout=pie&theme=radical&hide_border=true)
+<div align="center">
+  
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mifaki&theme=radical)](https://git.io/streak-stats)
+  
+  [![Faiz's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Mifaki&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+## 🤝 Let's Connect!
+
+<div align="center">
+  
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discordapp.com/users/611532053653225474)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ahmdpais_)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmad-faiz-agustianto/)
+
+</div>
+
+---
+<div align="center">
+  
+💡 *"The only way to do great work is to love what you do."* - Steve Jobs
+
+</div>
