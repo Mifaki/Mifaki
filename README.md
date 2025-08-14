@@ -3,7 +3,7 @@
 # 👋 Hello World, I'm Faiz! 
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&vCenter=true&random=false&width=435&lines=Frontend+Developer;Information+Technology+Student;Always+Learning+New+Things)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&vCenter=true&random=false&width=435&lines=Frontend+Developer;Information+Technology+Student)](https://git.io/typing-svg)
 
 </div>
 
@@ -24,7 +24,7 @@ const frontend = {
   languages: ['HTML', 'CSS', 'JavaScript', 'TypeScript'],
   frameworks: ['React', 'Vue.js', 'Angular', 'Next.js', 'Quasar'],
   styling: ['Tailwind CSS', 'SCSS', 'Styled Components'],
-  currentlyLearning: 'Advanced TypeScript Patterns'
+  currentlyLearning: 'SvelteKit'
 }
 ```
 </details>
@@ -73,12 +73,3 @@ const backend = {
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discordapp.com/users/611532053653225474)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ahmdpais_)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmad-faiz-agustianto/)
-
-</div>
-
----
-<div align="center">
-  
-💡 *"The only way to do great work is to love what you do."* - Steve Jobs
-
-</div>
