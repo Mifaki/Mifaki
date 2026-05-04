@@ -13,5 +13,5 @@
 </div>
 
 - discord: https://discordapp.com/users/611532053653225474  
-- instagram: https://instagram.com/ahmdpais_  
+- instagram: <https://instagram.com/ahmdpais_> 
 - linkedin: https://www.linkedin.com/in/ahmad-faiz-agustianto/  
